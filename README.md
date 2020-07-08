@@ -17,9 +17,9 @@ Usage of FisherMan for attacking targets without prior mutual consent is illegal
 
 ![shellp](https://user-images.githubusercontent.com/34893261/43082609-d6273f58-8e6a-11e8-97f3-df56e03ad83d.png)
 
-### Usage:
+### Installation and  Usage:
 ```
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/th
 ```
 ```
 cd FisherMan
