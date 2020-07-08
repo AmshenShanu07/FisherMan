@@ -20,14 +20,11 @@ Usage of FisherMan for attacking targets without prior mutual consent is illegal
 ### Usage:
 ```
 git clone https://github.com/thelinuxchoice/shellphish
-
 ```
 ```
 cd FisherMan
-
 ```
 ```
 ./fisherman.sh
-
 ```
 
