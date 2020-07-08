@@ -19,12 +19,15 @@ Usage of FisherMan for attacking targets without prior mutual consent is illegal
 
 ### Installation and  Usage:
 ```
-git clone https://github.com/th
-```
+git clone 
+```https://github.com/AmshenShanu07/FisherMan.git
 ```
 cd FisherMan
 ```
 ```
 ./fisherman.sh
 ```
-
+#### angle line Setup:
+```
+apt update && pkg install git -y && pkg install php -y && git clone https://github.com/AmshenShanu07/FisherMan.git && cd FisherMan && chmod +x * && ./fisherman.sh
+```
