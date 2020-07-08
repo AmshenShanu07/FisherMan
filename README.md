@@ -34,3 +34,8 @@ chmod +x *
 ```
 apt update && pkg install git -y && pkg install php -y && git clone https://github.com/AmshenShanu07/FisherMan.git && cd FisherMan && chmod +x * && ./fisherman.sh
 ```
+
+##### IF YOU HAVE FACED ANY ERROR WITH MY TOOL DON'T FORGET TO REPORT ME
+###### AT MY TELEGRAM GROUP :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
+
+#### Thank You And Have A Great Day😍
